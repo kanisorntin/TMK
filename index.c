@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main() {
-    printf("ทอมกากมากๆๆฟก");
+    printf("หมอกสุดหล่อ\n");
     return 0;
 }
